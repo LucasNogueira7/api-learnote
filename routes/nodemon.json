@@ -1,0 +1,13 @@
+{
+    "env": {
+         "USER" : "root",
+         "PASSWORD": "root",
+         "DATABASE" : "learnote",
+         "HOST" : "localhost", 
+         "PORT": 3306,
+
+         "JWT_KEY" : "segredo"
+         
+
+    }
+}
